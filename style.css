@@ -1,0 +1,94 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+#vse {
+    width: 1440px;
+    height:9564px;
+    border: 1px solid black;
+    
+}
+
+#img {
+    width: 1440px;
+    height: 56px;
+}
+
+
+#menu {
+    width: 1440px;
+    height: 90px;
+    border: 1px solid #F6F6F9;
+    justify-content: left;
+    gap: 50px;
+    display: flex;
+}
+
+#menu>#ss{
+    text-decoration: none;
+    font-family: 'Be Vietnam Pro';
+    color: black;
+    margin-top: 30px;
+    padding-left: 40px;
+
+}
+
+#button {
+    border: 1px solid #E8E7EE;
+    margin-top: 20px;
+    margin-left: 670px;
+    width: 147px;
+    height: 32px;
+    text-align: center;
+    padding-top:15px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Be Vietnam Pro';
+    color: black;
+}
+
+#meetlemon {
+    width: 114px;
+    height: 24px;
+    font-size: 16px;
+    margin-left: 600px;
+    margin-top: 70px;
+}
+
+h1{
+    width: 651px;
+    height: 173px;
+    margin-top: 37px;
+    margin-left: 400px;
+    font-size: 67px;
+}
+
+
+#p1 {
+    width: 766px;
+    height: 64px;
+    font-size: 16px;
+    margin-left: 300px;
+    margin-top: 60px;
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'Be Vietnam Pro';
+    text-align: center;
+}
+
+#img1{
+    width: 1280px;
+    height: 480px;
+    margin-left: 85px;
+}
+
+#div1{
+    display: flex;
+    justify-content: space-between;
+}
+
+#h2{
+    border: 2px;
+}
