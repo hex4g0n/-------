@@ -90,13 +90,13 @@ h1{
 }
 
 #p {
-    width: 1060px;
+    width: 1260px;
     height: 114px;
     display: flex;
     justify-content: space-around;
-    margin-left: 270px;
+    margin-left: 190px;
     align-items: center;
-    column-gap: 130px;
+    column-gap: 245px;
     margin-top: 130px;
     border-bottom: 1px solid #E8E7EE;
     padding-bottom: 40px;
@@ -111,4 +111,50 @@ h1{
     width:431px;
     height:96px;
     font-size: 16px;
+}
+
+#flex {
+    width: 1060px;
+    height: 298px;
+    display: flex;
+    margin-top: 32px;
+    margin-left: 190px;
+    justify-content: space-between;
+}
+
+#p2{
+    margin-top: 32px;
+    font-size: 16px;
+    width: 235px;
+}
+
+#c1 {
+    width: 327px;
+    height: 298px;
+    border: 1px solid #E8E7EE;
+    text-align: center;
+}
+
+#c2{
+    width: 327px;
+    height: 298px;
+    border: 1px solid #E8E7EE;
+    text-align: center;
+}
+
+#c3{
+    width: 327px;
+    height: 298px;
+    border: 1px solid #E8E7EE;
+    text-align: center;
+}
+
+#zag{
+    font-size: 23px;
+}
+
+#fleximg {
+    width: 72px;
+    height: 72px;
+    margin-top: 41px;
 }
