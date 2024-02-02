@@ -90,19 +90,17 @@ h1{
 }
 
 #p {
-    width: 1060px;
+    width: 2000px;
     height: 120px;
     display: flex;
     justify-content: space-around;
     border: 1px solid black;
-    align-items: center;
-    margin-top: 50px;
     margin-left: 270px;
+    align-items: center;
 }
 
 #div1{
     width: 386px;
-    height: 114px;
     font-size: 44px;
 }
 
