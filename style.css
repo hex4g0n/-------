@@ -53,7 +53,7 @@ a{
     width: 114px;
     height: 24px;
     font-size: 16px;
-    margin-left: 600px;
+    margin-left: 663px;
     margin-top: 70px;
 }
 
@@ -160,7 +160,20 @@ h1{
 }
 
 #learnmore{
-    width: 1060px;;
-    height:56px;
+    display: flex;
+    width: 1028px;;
+    height:24px;
+    background-color: #F6F6F9;
+    margin-top:32px;
+    margin-left: 190px;
+    gap: 466px;
+    align-items: center;
+    justify-content: right;
+    padding: 16px;
+}
+
+#learnmore>img{
+    border: 1px solid black;
+
 
 }
