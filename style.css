@@ -57,11 +57,11 @@ a{
     margin-top: 70px;
 }
 
-h1{
+#h1{
     width: 651px;
     height: 173px;
     margin-top: 37px;
-    margin-left: 400px;
+    margin-left: 440px;
     font-size: 67px;
 }
 
@@ -172,8 +172,46 @@ h1{
     padding: 16px;
 }
 
-#learnmore>img{
-    border: 1px solid black;
+#p3{
+    size: 16px;
+    text-align: center;
+    width: 1440px;
+    margin-top: 160px;
+}
 
+#h2{
+    width: 1440px;
+    font-size: 66px;
+    text-align: center;
+    font-weight: 400;
+    margin-top: -5px;
+}
 
+#IMG{
+    display: flex;
+    width: 1440px;
+    height: 536px;
+    justify-content: space-evenly;
+}
+
+#IMG>img{
+    width: 526px;
+    height: 386px;
+    padding-top: 75px;
+    padding-left: 48px;
+
+}
+
+#img2{
+    width: 1440px;
+    height: 386px;
+    align-items: center;
+    margin-top: 116px;
+    display: flex;
+    justify-content: center;
+}
+
+#img2>img{
+    width: 526px;
+    height: 386px;
 }
