@@ -4,7 +4,7 @@ html {
 }
 #vse {
     width: 1440px;
-    height: 1000000px;
+    height: 10000px;
     border: 1px solid black;
     
 }
@@ -227,6 +227,7 @@ footer{
     display: flex;
     justify-content: space-between;
     padding-bottom: 56px;
+    border-bottom: 1px solid #F0FAF81A;
 }
 
 #flexfoot{
@@ -248,29 +249,71 @@ footer{
 }
 
 #col1{
-    width: 400px;
-    height: 360px;
-    border-right: #F0FAF81A;
+    width: 360px;
+    height: 362px;
     background-color: #2A514C;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+#yellow{
+    margin-top: -20px;
+    padding-bottom:  20px;
+    color: #EBFA9E;
 }
 
 #col2{
-    width: 400px;
-    height: 360px;
-    border-right: #F0FAF81A;
+    width: 360px;
+    height: 362px;
     background-color: #2A514C;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
 
 #col3{
-    width: 400px;
-    height: 360px;
-    border-right: #F0FAF81A;
+    width: 360px;
+    height: 362px;
     background-color: #2A514C;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
 
 #col4{
-    width: 390px;
-    height: 360px;
-    border-right: #F0FAF81A;
+    width: 360px;
+    height: 362px;
     background-color: #2A514C;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+#floor3{
+    width: 1440px;
+    height: 80px;
+    background-color: #2A514C;
+    color: white;
+    border-top: 1px solid #F0FAF81A;
+}
+
+span{
+    color: #EBFA9E;
+}
+
+#floor3>p{
+    margin-top: 60px;
 }
